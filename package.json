@@ -1,0 +1,25 @@
+{
+  "name": "read-me",
+  "version": "1.0.0",
+  "description": "[How to create a Professional README](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mleone13/Read-Me.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mleone13/Read-Me/issues"
+  },
+  "homepage": "https://github.com/mleone13/Read-Me#readme",
+  "dependencies": {
+    "inquirer": "^9.0.2",
+    "latest-version": "^7.0.0"
+  }
+}
